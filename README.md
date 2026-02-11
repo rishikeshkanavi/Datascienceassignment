@@ -21,6 +21,7 @@ This repository contains two comprehensive data analysis case studies focused on
 
 ## 📁 Project Structure
 
+```
 DataScience/
 ├── data/                           # Raw datasets
 │   ├── Coffee.csv                  # Coffee chain sales and inventory data (462 KB)
@@ -32,6 +33,7 @@ DataScience/
 │   ├── Coffee Data 137.twbx        # Coffee chain analysis dashboard
 │   └── TITANIC DATA 137.twbx       # Titanic survival analysis dashboard
 └── README.md                       # This file
+```
 
 ## 📊 Case Studies
 
